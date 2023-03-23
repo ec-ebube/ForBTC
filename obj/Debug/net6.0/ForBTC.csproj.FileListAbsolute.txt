@@ -1,0 +1,15 @@
+C:\Users\Onwe\documents\projects\ForBTC\bin\Debug\net6.0\ForBTC.exe
+C:\Users\Onwe\documents\projects\ForBTC\bin\Debug\net6.0\ForBTC.deps.json
+C:\Users\Onwe\documents\projects\ForBTC\bin\Debug\net6.0\ForBTC.runtimeconfig.json
+C:\Users\Onwe\documents\projects\ForBTC\bin\Debug\net6.0\ForBTC.dll
+C:\Users\Onwe\documents\projects\ForBTC\bin\Debug\net6.0\ref\ForBTC.dll
+C:\Users\Onwe\documents\projects\ForBTC\bin\Debug\net6.0\ForBTC.pdb
+C:\Users\Onwe\documents\projects\ForBTC\obj\Debug\net6.0\ForBTC.csproj.AssemblyReference.cache
+C:\Users\Onwe\documents\projects\ForBTC\obj\Debug\net6.0\ForBTC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onwe\documents\projects\ForBTC\obj\Debug\net6.0\ForBTC.AssemblyInfoInputs.cache
+C:\Users\Onwe\documents\projects\ForBTC\obj\Debug\net6.0\ForBTC.AssemblyInfo.cs
+C:\Users\Onwe\documents\projects\ForBTC\obj\Debug\net6.0\ForBTC.csproj.CoreCompileInputs.cache
+C:\Users\Onwe\documents\projects\ForBTC\obj\Debug\net6.0\ForBTC.dll
+C:\Users\Onwe\documents\projects\ForBTC\obj\Debug\net6.0\ref\ForBTC.dll
+C:\Users\Onwe\documents\projects\ForBTC\obj\Debug\net6.0\ForBTC.pdb
+C:\Users\Onwe\documents\projects\ForBTC\obj\Debug\net6.0\ForBTC.genruntimeconfig.cache
