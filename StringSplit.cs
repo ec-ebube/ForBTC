@@ -10,11 +10,12 @@ namespace ForBTC
         //Write a funtion that splits strings
         public static void splistring()
         {
-            string s1 = "Hello C Sharp";
-            string[] s2 = s1.Split("");
-            foreach (string s3 in s2)
+            string myString = "Hello, World!";
+            char[] delimiterChars = { ',' };
+            string[] words = myString.Split(delimiterChars);
+            foreach (string word in words)
             {
-                Console.WriteLine(s3);
+                Console.WriteLine(word);
             }
         }
     }
