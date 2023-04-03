@@ -7,6 +7,7 @@ namespace ForBTC
 {
     public class BTCLogic
     {
+        public static int num;
         //The amount of btc in your possession
         public static void acct(int value, int Available)
         {
@@ -17,10 +18,10 @@ namespace ForBTC
 
             //Generating the number of btc to buy
             Random random = new Random();
-            int num2buy = random.Next(1, Available);
 
             for (int i = 1; i <= months; i++)
             {
+                int num2buy = random.Next(1, Available);
                 
             }
         }

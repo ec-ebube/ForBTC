@@ -11,7 +11,7 @@ namespace ForBTC
         public static void splistring()
         {
             string myString = "Hello, World!";
-            char[] delimiterChars = { ',' };
+            char[] delimiterChars = { ' ' };
             string[] words = myString.Split(delimiterChars);
             foreach (string word in words)
             {

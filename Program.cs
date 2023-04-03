@@ -7,7 +7,7 @@ int Available = random.Next(1, 300);
 
 
 // ForBTC.Price.BtcAmount(value, Available);
-// ForBTC.BTCLogic.acct(value, Available);
+ForBTC.BTCLogic.num = 10;
 // ForBTC.Trial.Trying(value, Available);
 // ForBTC.Sort.forsorting();
 ForBTC.StringSplit.splistring();
